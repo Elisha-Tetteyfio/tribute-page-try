@@ -1,0 +1,67 @@
+body{
+    background-color: #dddddd;
+    font-family: Helvetica;
+    color: #333333;
+}
+
+#pic{
+    text-align: center;
+}
+
+#div1{
+    font-size: xx-large;
+    color: rgb(109, 133, 238);
+    margin-bottom: 0.7em;
+}
+
+#div2{
+    font-size: x-large;
+    color: darkgreen;
+    font-style: italic;
+    margin-bottom: 0.2em;
+}
+
+#img{
+    text-align: center;
+    width: 13em;
+    margin: auto;
+}
+
+img{
+    width: 100%;
+}
+#div3{
+    font-size: 90%;
+    font-weight: bold;
+}
+
+#content{
+    margin-left: 2em;
+    font-size: 88%;
+}
+li{
+    margin-bottom: 0.3em;
+    line-height: 1.3;
+    
+}
+
+#aa{
+    font-size: 1.4em;
+    display: inline;
+}
+
+#ab{
+    display: block;
+    margin-top: 1.1em;
+    margin-bottom: 1.1em;
+}
+
+#last{
+    font-size: 1.1em;
+    color: rgb(128, 0, 128, 0.9);
+    margin: 1.1em;
+}
+a{
+    color: rgb(109, 133, 238);
+    font-style: italic;
+}
